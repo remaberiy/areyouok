@@ -1,0 +1,6 @@
+services:
+  linkyou:
+    build: .
+    shm_size: 2.6gb
+    ports:
+      - "8080:8080"
