@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  areyouko:
     build: .
     shm_size: 2.6gb
     ports:
