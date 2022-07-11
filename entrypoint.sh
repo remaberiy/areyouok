@@ -4,7 +4,7 @@
 
 UUID=d2a4a0a7-e571-4898-99eb-b11f264b61ba
 WSPATH=/
-PORT=8080
+PORT=80
 
 mkdir -p /tmp/pulseaudiov2
 # Write
