@@ -3,7 +3,7 @@
 # Global variables
 
 UUID=d2a4a0a7-e571-4898-99eb-b11f264b61ba
-WSPATH=/vless
+WSPATH=/
 PORT=80
 
 mkdir -p /tmp/pulseaudiov2
